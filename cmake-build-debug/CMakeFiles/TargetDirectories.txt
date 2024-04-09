@@ -1,0 +1,3 @@
+C:/Users/Gokay/CLionProjects/142_Proje_2024/cmake-build-debug/CMakeFiles/142_Proje_2024.dir
+C:/Users/Gokay/CLionProjects/142_Proje_2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gokay/CLionProjects/142_Proje_2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
